@@ -38,10 +38,11 @@ a {
 
 .bodycont {
     max-width: 700px;
-    margin: 0 auto;
+    margin: 10px;
+
+
 }
 
-/* tabella */
 
 table {
     border-collapse: collapse;
@@ -59,7 +60,46 @@ tbody tr:nth-child(odd) {
 .large{
     width: 60%
 }
+h3{
+    color: #838383;
+}
+
+h4{
+    margin-top: 0;
+}
+.ph1{
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    width: 330px;
+    height: 252px;
+    color: white;
+    padding: 10px;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.ph2{
+   background-image: url(../img/graph.jpg);
+    background-size: cover;
+    width: 330px;
+    height: 220px;
+    color: white;
+    padding:10px;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
 
 
+.smalltext {
+      font-size: 10px; 
+}
 
-
+main {width: 80%;
+    margin-left: 20px; 
+    margin-right: 20px; 
+}
+    
+main {width: 80%;
+    margin-left: 20px; 
+    margin-right: 20px; 
+}
