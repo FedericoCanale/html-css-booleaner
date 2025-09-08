@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+}
+
+
+/* creazione stile per il logo */
+
+.logo {
+    width: 160px;
+    margin: 30px;
+}
+
+.logosect {
+    height: 70px;
+    background-color: rgb(59, 179, 249);
+    background-image: url(../img/pattern.png);
+    background-size: 200px;
+}
+
+/* /intestazione */
+
+h1 {
+    font-size: 34px;
+    margin-bottom: 0px;
+}
+
+.int {
+    max-width: 700px;
+    
+
+}
+
+a {
+    text-decoration: none;
+    color: #0ba2e8;
+}
+
+
+.bodycont {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+/* tabella */
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: #4abeef;
+    color: white;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #17aad2;
+}
+
+.large{
+    width: 60%
+}
+
+
+
+
